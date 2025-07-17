@@ -5,7 +5,7 @@
 
   body {
     font-family: Arial, sans-serif;
-    background:linear-gradient(to right,white, rgb(18, 219, 246),white);
+    background:linear-gradient(to right, rgb(18, 219, 246),white,rgb(18, 219, 246));
     display: flex;
     justify-content: center;
   }
